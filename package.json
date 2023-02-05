@@ -10,10 +10,14 @@
   },
   "dependencies": {
     "@next/font": "13.1.5",
+    "@techstark/opencv-js": "^4.6.0-release.1",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.5",
     "next": "13.1.5",
+    "node-fetch": "^3.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sharp": "^0.31.3",
+    "tesseract-wasm": "^0.10.0"
   }
 }
